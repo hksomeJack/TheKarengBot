@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "Test",
+    "owner": "tuttleage",
+    "description": "Simple Reddit bot."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Hello",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
